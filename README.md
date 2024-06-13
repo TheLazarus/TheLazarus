@@ -1,14 +1,3 @@
-<style type="text/css" rel="stylesheet">
-  .greeting {
-    color: red
-  }
-</style>
-
-
-<h1 class="greeting">
-  Hello
-</h1>
-
 ## Hi there 👋 I'm Sarthak
 
 - 🔭 I’m currently working as a Front-end Engineer @ Paytm | Noida
